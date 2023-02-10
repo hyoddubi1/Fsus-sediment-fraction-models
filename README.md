@@ -43,3 +43,20 @@ cd FsusModels
 python FsusModels.py
 ```
 Then, the result of the example will be printed.
+
+
+# Citation
+The preprint for the contents of this repository is now available.
+
+```
+@article{Noh_2022,
+	doi = {10.22541/essoar.167117623.37432358/v1},
+	url = {https://doi.org/10.22541%2Fessoar.167117623.37432358%2Fv1},
+	year = 2022,
+	month = {dec},
+	publisher = {Authorea,
+Inc.},
+	author = {Hyoseob Noh and Yong Sung Park and Il Won Seo},
+	title = {A novel efficient method of estimating suspended total sediment load fraction in natural rivers}
+}
+```
